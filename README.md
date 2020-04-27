@@ -16,6 +16,3 @@ Steps performed in this notebook:
 
 To learn more about PyCaret, please visit the official website https://www.pycaret.org
 
-Check out this notebook!
-
-https://lnkd.in/gs3RnkH
